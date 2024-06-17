@@ -1,0 +1,46 @@
+.searchResults {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-height: 200px;
+  overflow-y: scroll;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.searchResultsList {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 600px;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  width: 100%;
+}
+
+.list li {
+  display: flex;
+  justify-content: center;
+}
+
+.readingListTitle {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.noResults {
+  color: #6c6c6c;
+  text-align: center;
+}
+
+.readingListGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}

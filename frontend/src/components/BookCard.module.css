@@ -1,0 +1,68 @@
+.card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+}
+
+.readingListCard {
+  flex-direction: column;
+  width: 100%;
+}
+
+.imageLarge {
+  width: 200px;
+  height: auto;
+}
+
+.imageSmall {
+  width: 75px;
+  height: auto;
+}
+
+.imagePaddingTop {
+  padding-top: 10px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.centerText {
+  text-align: center;
+}
+
+.verticalContent {
+  align-items: center;
+}
+
+.button {
+  margin-top: auto;
+  width: fit-content;
+  margin-left: 16px !important;
+  font-size: 0.7rem;
+}
+
+.readingListButton {
+  margin-top: auto;
+  width: fit-content;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.smallCard {
+  width: 100%;
+  margin: auto;
+}
+
+.smallText {
+  font-size: 0.8rem;
+}
+
+.smallTextTitle {
+  font-size: 1.1rem;
+}

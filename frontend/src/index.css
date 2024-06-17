@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+
+body {
+  margin: 20;
+  font-family: "Mulish", sans-serif;
+  background-color: #ffffff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
