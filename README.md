@@ -6,7 +6,7 @@ This repository contains my solution for the Ello Engineering Challenge - Book A
 
 ## Authors
 
-- Front-end: Gideon Amha Gebremedhin - [Github](https://github.com/GideonAmhaG)
+- Front-end: Gideon Amha Gebremedhin - [Github](https://github.com/GideonAmhaG) | [X](https://x.com/GideonAmha)
 
 
 ## Run Locally
