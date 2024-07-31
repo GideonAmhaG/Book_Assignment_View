@@ -1,7 +1,7 @@
 
 # Ello Engineering Challenge - Book Assignment View
 
-This repository contains my solution for the Ello Engineering Challenge - Book Assignment View.
+This project showcases a solution for the Ello Engineering Challenge, specifically the Book Assignment View. It enables users to add and remove books from a list, demonstrating the ability to build a dynamic user interface (frontend) and integrate it with a GraphQL server (backend) to manage book data.
 
 
 ## Authors
