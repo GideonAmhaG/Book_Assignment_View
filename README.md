@@ -47,7 +47,7 @@ Run the application (open two separate terminal windows)
 - Frontend: React
 - UI Framework: Material-UI
 - Styling: "Mulish" Google Font
-- GraphQL Server
+- Frontend: GraphQL Server
 - Data: The GraphQL server provides a single query named books that returns a list of book objects including title, author, and cover photo URL.
 
 
