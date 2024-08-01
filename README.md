@@ -1,15 +1,17 @@
 
-# Ello Engineering Challenge - Book Assignment View
+# Book Assignment View
 
 This project showcases a solution for the Ello Engineering Challenge, specifically the Book Assignment View. It enables users to add and remove books from a list, demonstrating the ability to build a dynamic user interface (frontend) and integrate it with a GraphQL server (backend) to manage book data.
 
+## Features
 
-## Authors
+- Frontend: React
+- UI Framework: Material-UI
+- Styling: "Mulish" Google Font
+- Frontend: GraphQL Server
+- Data: The GraphQL server provides a single query named books that returns a list of book objects including title, author, and cover photo URL.
 
-- Front-end: Gideon Amha Gebremedhin - [Github](https://github.com/GideonAmhaG) | [X](https://x.com/GideonAmha)
-
-
-## Run Locally
+  ## Installation/Usage
 
 Clone this repository
 
@@ -38,16 +40,16 @@ Run the application (open two separate terminal windows)
     cd frontend/
     npm start
 ```
+  
+## Authors
 
+- Front-end: Gideon Amha Gebremedhin - [Github](https://github.com/GideonAmhaG) | [X](https://x.com/GideonAmha)
+- Back-end: Ello
 
+## License
 
+[MIT](https://choosealicense.com/licenses/mit/)
 
-## Features
-
-- Frontend: React
-- UI Framework: Material-UI
-- Styling: "Mulish" Google Font
-- Frontend: GraphQL Server
-- Data: The GraphQL server provides a single query named books that returns a list of book objects including title, author, and cover photo URL.
+  
 
 
