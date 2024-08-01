@@ -8,7 +8,7 @@ This project showcases a solution for the Ello Engineering Challenge, specifical
 - Frontend: React
 - UI Framework: Material-UI
 - Styling: "Mulish" Google Font
-- Frontend: GraphQL Server
+- Backend: GraphQL Server
 - Data: The GraphQL server provides a single query named books that returns a list of book objects including title, author, and cover photo URL.
 
   ## Installation/Usage
